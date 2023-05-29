@@ -1,0 +1,3 @@
+= Delta Lake Lambdas
+
+This repository contains a collection of AWS Lambdas for link:https://delta.io[Delta Lake]
